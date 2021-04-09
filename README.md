@@ -3,7 +3,7 @@ program to download mediafire with terminal
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/Anime-Tracker" height="60%" width="100%" src="Screenshot_20210326-075344350.jpg"/>
+     <img alt="AsukaDev-Official/mediafire-download" height="60%" width="100%" src="Screenshot_20210410-053613972.jpg"/>
   </a>
 </p>
 
